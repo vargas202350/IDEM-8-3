@@ -38,7 +38,7 @@
     
     left: 180px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("medellin.jpg");
     
     }
     
@@ -53,14 +53,17 @@
     }
     
     .texto{
+    top: 80px;
+    font-size: 200px;
     
-    font-size: 40px;
+    text-align: center;
     
-    text-align: justify;
-    
-    color: brown;
+    color: rgb(255, 255, 255);
     
      
     
     }
     
+
+    
+
