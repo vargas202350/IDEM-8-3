@@ -1,180 +1,66 @@
-* {
-  padding: 0px;
 
-  margin: 0px;
-}
-
-body {
-  background-image: url("Medellinn.jpg");
-
-  background-repeat: no-repeat;
-}
-
-.img {
-  position: relative;
-
-  width: 190px;
-
-  height: 190px;
-
-  border-radius: 10px;
-
-  background-repeat: no-repeat;
-
-  left: 180px;
-
-  background-image: url("medellin.jpeg");
-}
-
-.contenedor {
-  height: 230px;
-}
-
-.texto {
-  font-size: 40px;
-
-  text-align: justify;
-
-  color: brown;
-}
-.imagentecno {
-  background-repeat: no-repeat;
-
-  float: left;
-
-  height: 200px;
-
-  width: 300px;
-
-  margin-left: 5px;
-
-  margin-right: 5px;
-
-  background-image: url("operadores electricos.jpg");
-}
-
-.textotecno {
-  text-align: justify;
-
-  color: rgb(44, 223, 255);
-
-  font-size: 25px;
-}
-
-.imagensociales {
-  background-repeat: no-repeat;
-
-  float: left;
-
-  height: 340px;
-
-  width: 500px;
-
-  margin-left: 5px;
-
-  margin-right: 5px;
-
-  background-image: url("condicion humana mapa.png");
-}
-
-.textosociales {
-  text-align: justify;
-
-  color: rgb(44, 218, 224);
-
-  font-size: 25px;
-}
-.imagenmatematicas {
-  background-repeat: no-repeat;
-
-  float: left;
-
-  height: 740px;
-
-  width: 1100px;
-
-  margin-left: 5px;
-
-  margin-right: 5px;
-
-  background-image: url("parted de un polinomio.png");
-}
-
-.textomatematicas {
-  text-align: justify;
-
-  color: rgb(82, 228, 196);
-
-  font-size: 16px;
-}
-
-.imageningles {
-  background-repeat: no-repeat;
-
-  float: left;
-
-  height: 390px;
-
-  width: 430px;
-
-  margin-left: 5px;
-
-  margin-right: 5px;
-
-  background-image: url("");
-}
-
-.textoingles {
-  text-align: justify;
-
-  color: rgb(54, 180, 253);
-
-  font-size: 25px;
-}
-
-.imagenbiologia {
-  background-repeat: no-repeat;
-
-  float: left;
-
-  height: 350px;
-
-  width: 580px;
-
-  margin-left: 5px;
-
-  margin-right: 5px;
-
-  background-image: url("cruzes genetica.png");
-}
-
-.textobiologia {
-  text-align: justify;
-
-  color: rgb(76, 51, 219);
-
-  font-size: 25px;
-}
-.imagenreligion {
-  background-repeat: no-repeat;
-
-  float: left;
-
-  height: 1200px;
-
-  width: 1400px;
-
-  margin-left: 5px;
-
-  margin-right: 5px;
-
-  background-image: url("Mapa mental.jpg");
-}
-
-.textoreligion {
-  text-align: justify;
-
-  color: rgb(44, 218, 224);
-
-  font-size: 25px;
-}
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+    background-image: url("fondo.jpg");
+    
+    background-repeat: no-repeat;
+    
+    }
+    
+    
+    
+    .img{
+    
+    position: relative;
+    
+     
+    
+    width: 190px;
+    
+    height: 190px;
+    
+    border-radius: 10px;
+    
+    background-repeat: no-repeat;
+    
+     
+    
+    left: 180px;
+    
+    background-image: url("medellin.jpeg");
+    
+    }
+    
+    .contenedor{
+    
+     
+    
+    height: 230px;
+    
+     
+    
+    }
+    
+    .texto{
+    
+    font-size: 40px;
+    
+    text-align: justify;
+    
+    color: brown;
+    
+     
+    
+    }
+    
